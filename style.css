@@ -87,7 +87,7 @@
 
 #myFooter .btn {
     color: white;
-    background-color: #d84b6b;
+    background-color: red;
     border-radius: 20px;
     border: none;
     width: 150px;
@@ -126,5 +126,3 @@ body{
    -webkit-flex: 0 0 auto;
 }
 
-/*   a tag   */
-a:hover { COLOR:red; TEXT-DECORATION: none; font-weight: none }
