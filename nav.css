@@ -4,7 +4,7 @@
 } */
 
 .header{
-    padding:6rem;
+    padding:5rem;
     padding-top: 7rem;
     background-image: url(https://cdn-web.brompton.com/~/media/Images/Core-Site-Content/Factory-Shots/Brompton-Factory003.jpg);
 }
@@ -36,6 +36,10 @@
 
 .heading-right{
     margin-top: -2.3rem;
+}
+
+.heading-left{
+    margin-top:3rem;
 }
 
 .logo-box{
