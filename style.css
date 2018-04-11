@@ -53,7 +53,7 @@
 #myFooter a:hover,
 #myFooter a:focus {
     text-decoration: none;
-    color: white;
+    color: red;
 }
 
 #myFooter .social-networks {
@@ -87,7 +87,7 @@
 
 #myFooter .btn {
     color: white;
-    background-color: #d84b6b;
+    background-color: red;
     border-radius: 20px;
     border: none;
     width: 150px;
@@ -125,3 +125,4 @@ body{
    flex: 0 0 auto;
    -webkit-flex: 0 0 auto;
 }
+
