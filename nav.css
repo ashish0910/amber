@@ -10,6 +10,7 @@
     color:#fff!important;
 }
 
+
 .nav-link{
     color:#fff!important;
     text-transform: uppercase!important;
@@ -18,10 +19,20 @@
 .nav-link:hover{
     background-color: #A40A3C!important;
 }
+
+.apply{
+    background-color: #A40A3C!important;
+}
+
+.apply:hover{
+    background-color: orangered!important;
+}
+
 .dropdown-menu{
     background-color: #A40A3C!important;
     color:#fff!important;
 }
+
 
 .dropdown-item{
     color:#fff!important;
@@ -35,10 +46,12 @@
 
 
 .header{
+    margin:0;
     margin-top: -1rem;
-    padding:5rem;
+    padding:2rem 0;
     padding-top: 7rem;
     background-image: url(https://cdn-web.brompton.com/~/media/Images/Core-Site-Content/Factory-Shots/Brompton-Factory003.jpg);
+    /* background-size: cover; */
 }
 
 .primary-heading{
@@ -67,20 +80,32 @@
 }
 
 .heading-right{
-    margin-top: -2.3rem;
+    margin-top: -2.8rem;
 }
 
 .heading-left{
-    margin-top:3rem;
+    margin-top:4rem;
 }
 
-.logo-box{
-    margin-left:10rem;
+.header-image{
+    margin-left:12rem;
+    height: 80%;
 }
+
 .anchoring{
     margin-top: 2rem;
+    margin-left: 1rem;
     font-size: 1.2rem;
 }
 .anchoring:hover{
     color: #A40A3C!important;
+}
+
+.about{
+    margin-top: .1rem;
+    margin-bottom: 4rem;
+    margin-left: 8rem;
+    color: rgba(#000,0.5);
+    font-weight: 400;
+    font-size: 18px;
 }
